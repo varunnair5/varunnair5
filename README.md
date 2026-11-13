@@ -2,7 +2,7 @@
 
 ### Strategy & Business Analysis | MS Applied Data Science Candidate, University of Chicago | Engineering Physics, UIUC
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun%20Nair%20Rajeev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-nair-rajeev-63769a20a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun%20Nair%20Rajeev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunnairrajeev/)
 ![UChicago](https://img.shields.io/badge/MS%20Applied%20Data%20Science-University%20of%20Chicago-800000?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Chicago%2C%20IL-424242?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Work authorization](https://img.shields.io/badge/U.S.%20Permanent%20Resident-1B3A5C?style=for-the-badge)
